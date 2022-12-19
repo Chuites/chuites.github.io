@@ -1,0 +1,19 @@
+img{
+    height: auto;
+    width: 300px;
+    border-radius: 15%;
+    margin: 10px;
+}
+
+th{
+    text-align: center;
+}
+tr, td{
+    font-size: 1.5rem;
+    border: 1px solid black;
+}
+body
+{
+    padding: 5%;
+}
+
